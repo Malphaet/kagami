@@ -78,14 +78,14 @@ input:disabled ~ label .iconbutton {
   position: absolute;
   bottom: 0;
   right: 0;
-  width: 0; 
-  height: 0; 
+  width: 0;
+  height: 0;
   border-left: 0.8rem solid transparent;
   border-right: 0.8rem solid transparent;
-  
+
   border-top: 0.8rem solid #000000bb;
   transform: translate(50%, 0%) rotate(-45deg);
-  
+
   z-index: 9;
 }
 
@@ -97,7 +97,7 @@ input:disabled ~ label .iconbutton {
 
 .skilldisplayer {
   position: relative;
-  background-color: #000000bb;
+  background-color: #00000000;
 }
 .skilldisplayer .icon {
   /* width: 0; */

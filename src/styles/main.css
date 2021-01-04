@@ -97,7 +97,8 @@ input:disabled ~ label .iconbutton {
 
 .skilldisplayer {
   position: relative;
-  background-color: #00000000;
+  background-color: #00000025;
+  border-radius: 12px;
 }
 .skilldisplayer .icon {
   /* width: 0; */

@@ -1,10 +1,10 @@
 # kagami
 
-*kagami* is **mirror** in Japanese.
+*Kagami* means **mirror** in Japanese.
 
-show your FFXIV skill rotations with *kagami*, looking back your rotations with *kagami*!
+*Kagami* will show your skills on a convenient timeline and allow you to look back at your rotation !
 
-## example videos👀
+## Example videos 👀
 
 [![youtube-nin-pov](https://img.youtube.com/vi/He6r6paOYp4/0.jpg)](https://youtu.be/He6r6paOYp4)
 
@@ -14,34 +14,34 @@ show your FFXIV skill rotations with *kagami*, looking back your rotations with 
 
 - [SMN PoV](https://youtu.be/mkAPPWO0x0A). can check egi/bahamut pet actions. use with other overlay([MOPIMOPI](https://github.com/HAERUHAERU/mopimopi))
 
-## features🚀
+## Features 🚀
 
 ![settings](settings.png)
 
-- show player & pet actions.
-- track player casting and its interrupt.
-- melee positional(rear/flank) check
-- pet actions validation
+- Show player & pet actions.
+- Track player casting and its interrupt.
+- Melee positional(rear/flank) check.
+- Pet actions validation.
 
-## installation🔨
+## Installation 🔨
 
 See [installation](https://github.com/ramram1048/kagami/blob/master/installation.md).
-current *kagami* works good with: FFXIV patch `5.35`
+Current *kagami* works with: FFXIV patch `5.35`
 
-## known issues🚧
+## known issues 🚧
 
-- cannot indicate pet before *kagami* launch
-  (you have to re-summon your pet after launch *kagami*😥)
-- item, mount icons are coming out later than expected timing
-- bug on pet action validation when hitting low-level striking dummies(see [#8](https://github.com/ramram1048/kagami/issues/8))
+- Cannot display pet actions summoned before *kagami* launch
+  (You will have to re-summon your pet after launching *kagami*😥)
+- Some items and mount icons are still missing
+- Bug on pet action validation when hitting low-level striking dummies(see [#8](https://github.com/ramram1048/kagami/issues/8))
 
-## upcoming features⚡
+## Upcoming features⚡
 
-- theme customization
+- Theme customization
 
-## contact💬
+## Contact💬
 
-- discord `ram#5923` (japanese, english, korean)
-- or make [issue](https://github.com/ramram1048/kagami/issues) in this repository
-- any PRs are welcome, especially:
+- Discord `ram#5923` (japanese, english, korean)
+- You can post [issues](https://github.com/ramram1048/kagami/issues) in this repository
+- Any PRs are welcome, especially:
   - DE, FR language

@@ -139,6 +139,8 @@ input:disabled ~ label .iconbutton {
 
 .casting {
   opacity: 0.4;
+  margin-left: 10px!important;
+  border-radius: 12px;
   background-color: #eeeeee;
 }
 .interrupted img {
